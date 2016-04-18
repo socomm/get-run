@@ -27,3 +27,12 @@ This program requires the following python modules:
 	- [ ] Config rollback
 	- [ ] Security (diff configurations, ARP)
 	- [ ] E-Mail notification
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley

@@ -21,9 +21,9 @@ This program requires the following python modules:
 
 # Planned features # 
 
-	- Retrieve running-config via ssh
-	- Backups+Scheduler
-	- Config Deployments
-	- Config rollback
-	- Security (diff configurations, ARP)
-	- E-Mail notification
+	-[] Retrieve running-config via ssh
+	-[] Backups+Scheduler
+	-[] Config Deployments
+	-[] Config rollback
+	-[] Security (diff configurations, ARP)
+	-[] E-Mail notification

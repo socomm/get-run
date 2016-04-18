@@ -1,7 +1,8 @@
 # Overview #
 
-**get-run** is an Open-Source software designed to help extract Cisco running 
-config from SSH enabled cisco hardware - namely routers and switches.
+**get-run** is an Open-Source command-line utility designed to help extract 
+running configuration from SSH enabled cisco hardware - namely Cisco routers and 
+switches.
 
 # License #
 

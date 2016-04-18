@@ -19,7 +19,17 @@ This program requires the following python modules:
 - signal
 - sys
 
-# Planned features # 
+# Usage #
+
+Parameters supported include:
+
+| Option               | Description                             |
+|:---------------------|:----------------------------------------|
+| `-H`                 | Specify hostname/IP address. |
+| `-u`                 | Specify username. |
+| `--help`             | Show help message and exit.             |
+
+# Planned features 
 
 - [ ] Retrieve running-config via ssh
 - [ ] Backups+Scheduler

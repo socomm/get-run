@@ -12,12 +12,12 @@ GPLv3, with full license available in LICENSE file.
 
 This program requires the following python modules:
 
-    - paramiko
-    - getpass
-    - click
-    - ipaddress
-    - signal
-    - sys
+- paramiko
+- getpass
+- click
+- ipaddress
+- signal
+- sys
 
 # Planned features # 
 

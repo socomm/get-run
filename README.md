@@ -21,19 +21,9 @@ This program requires the following python modules:
 
 # Planned features # 
 
-	- [ ] Retrieve running-config via ssh
-	- [ ] Backups+Scheduler
-	- [ ] Config Deployments
-	- [ ] Config rollback
-	- [ ] Security (diff configurations, ARP)
-	- [ ] E-Mail notification
-
-    - [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [ ] Retrieve running-config via ssh
+- [ ] Backups+Scheduler
+- [ ] Config Deployments
+- [ ] Config rollback
+- [ ] Security (diff configurations, ARP)
+- [ ] E-Mail notification
